@@ -1,3 +1,3 @@
 Simon's stamp collection
 ---
-#About
+#About Simon
